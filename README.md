@@ -1,5 +1,5 @@
 #TASK3LR
-[1:52 AM, 6/26/2025] Sharmila L: # 📊 Linear Regression Project – Internship Task 3
+ # 📊 Linear Regression Project – Internship Task 3
 
 This project demonstrates how to perform Linear Regression using Python and scikit-learn.  
 It includes data preprocessing, model training, evaluation, visualization, and coefficient interpretation.
